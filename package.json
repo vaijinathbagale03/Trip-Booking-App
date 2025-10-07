@@ -1,0 +1,17 @@
+{
+  "name": "travel-booking-app-main",
+  "version": "1.0.0",
+  "description": "Introducing our Airbnb Booking App: Your Ultimate Travel Companion!",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
