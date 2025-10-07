@@ -18,9 +18,13 @@ Key Features:
 Tech Stack:
 
 Frontend: Our app is built using the React framework, offering a sleek and intuitive user interface. React provides a dynamic and responsive user experience, making navigation a breeze.
+
 Backend: We utilize the powerful combination of Node.js and Express for the server, offering high-performance, scalability, and robust APIs to ensure seamless data flow.
+
 Database: MongoDB, a NoSQL database, is the backbone of our application, ensuring flexible data storage and retrieval capabilities.
+
 Authentication: For user authentication, we employ industry-standard technologies to ensure the security of your data and privacy. Passwords are securely hashed using bcrypt.js.
+
 Cloud Storage: All your property images are stored in Amazon AWS S3, a reliable and scalable cloud storage service.
 
 This TripNext Booking App is not just a travel app; it's a complete solution that caters to the needs of both travelers and hosts. With user-friendly interfaces, powerful features, and a robust tech stack, we aim to redefine the way you experience travel and property management.
